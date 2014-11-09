@@ -1,6 +1,13 @@
 # Bloonix Monitoring
 
-## Base software
+## About Bloonix
+
+Bloonix is a high scalable IT infrastructure monitoring solution that helps businesses to ensure high availability and performance.
+It monitors and alerts on the availability and performance of systems, applications, networks and databases.
+
+## Repositories
+
+### Base software
 
     git clone git@github.com:bloonix/bloonix-agent.git
     git clone git@github.com:bloonix/bloonix-core.git
@@ -10,7 +17,7 @@
     git clone git@github.com:bloonix/bloonix-server.git
     git clone git@github.com:bloonix/bloonix-webgui.git
 
-## Plugins
+### Plugins
 
     git clone git@github.com:bloonix/bloonix-plugins-apache.git
     git clone git@github.com:bloonix/bloonix-plugins-basic.git
