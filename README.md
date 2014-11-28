@@ -26,7 +26,6 @@ It monitors and alerts on the availability and performance of systems, applicati
 * https://github.com/bloonix/bloonix-plugins-redis
 * https://github.com/bloonix/bloonix-plugins-sensors
 * https://github.com/bloonix/bloonix-plugins-varnish
-* https://github.com/bloonix/bloonix-plugins-windows
 * https://github.com/bloonix/bloonix-plugins-wtrm
 * https://github.com/bloonix/bloonix-server
 * https://github.com/bloonix/bloonix-webgui
@@ -59,6 +58,5 @@ It monitors and alerts on the availability and performance of systems, applicati
     git clone git@github.com:bloonix/bloonix-plugins-redis.git
     git clone git@github.com:bloonix/bloonix-plugins-sensors.git
     git clone git@github.com:bloonix/bloonix-plugins-varnish.git
-    git clone git@github.com:bloonix/bloonix-plugins-windows.git
     git clone git@github.com:bloonix/bloonix-plugins-wtrm.git
 
