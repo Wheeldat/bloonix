@@ -5,6 +5,16 @@
 Bloonix is a high scalable IT infrastructure monitoring solution that helps businesses to ensure high availability and performance.
 It monitors and alerts on the availability and performance of systems, applications, networks and databases.
 
+## Documentation
+
+    https://www.bloonix.de/docs
+
+I'm sorry that the documentation is currently only available in the german language.
+
+My english is too bad and I it would be very great if someone likes to help be to translate it. :-)
+
+In the near feature I want to start bloonix.org as wiki page for Bloonix. If you have interest to help me, let me know it.
+
 ## Repositories
 
 * https://github.com/bloonix/bloonix-agent
