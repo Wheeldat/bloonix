@@ -13,7 +13,7 @@ I'm sorry that the documentation is currently only available in the german langu
 
 My english is too bad and I it would be very great if someone likes to help be to translate it. :-)
 
-In the near feature I want to start bloonix.org as wiki page for Bloonix. If you have interest to help me, let me know it.
+In the near future I want to start bloonix.org as wiki page for Bloonix. If you have interest to help me, let me know it.
 
 ## Repositories
 
