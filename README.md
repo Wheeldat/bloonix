@@ -43,6 +43,12 @@ In the near future I want to start bloonix.org as wiki a page for Bloonix - or m
 * https://github.com/bloonix/bloonix-webgui-core
 * https://github.com/bloonix/bloonix-wtrm
 
+## Plugins
+
+You can find a list of all available Bloonix plugins here
+
+* https://github.com/bloonix/bloonix-plugin-config
+
 ## Quick checkout
 
 ### Base software
