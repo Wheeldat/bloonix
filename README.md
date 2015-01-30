@@ -9,7 +9,7 @@ It monitors and alerts on the availability and performance of systems, applicati
 
 You can find the documentation here:
 
-    http://bloonix.org/docs
+    http://bloonix.org/
 
 The source files of the documentation are maintained in a github repository:
 
