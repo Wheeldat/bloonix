@@ -11,7 +11,7 @@ You can find the documentation here:
 
     http://bloonix.org/docs
 
-The source files of the documetion are maintained in a github repository:
+The source files of the documentation are maintained in a github repository:
 
     https://github.com/bloonix/bloonix.org
 
