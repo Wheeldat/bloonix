@@ -9,11 +9,11 @@ It monitors and alerts on the availability and performance of systems, applicati
 
 You can find the documentation here:
 
-    http://bloonix.org/
+http://bloonix.org/
 
 The source files of the documentation are maintained in a github repository:
 
-    https://github.com/bloonix/bloonix.org
+https://github.com/bloonix/bloonix.org
 
 I'm really sorry that the documentation is currently only available in the german language.
 
