@@ -7,13 +7,17 @@ It monitors and alerts on the availability and performance of systems, applicati
 
 ## Documentation
 
-    https://www.bloonix.de/docs
+You can find the documentation here:
+
+    http://bloonix.org/docs
+
+The source files of the documetion are maintained in a github repository:
+
+    https://github.com/bloonix/bloonix.org
 
 I'm really sorry that the documentation is currently only available in the german language.
 
 My english is too bad and I it would be very great if someone likes to help be to translate it. :-)
-
-In the near future I want to start bloonix.org as wiki a page for Bloonix - or maybe as Textile files on Github. If you have interest to help me, let me know it.
 
 ## Repositories
 
