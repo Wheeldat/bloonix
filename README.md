@@ -17,7 +17,7 @@ https://github.com/bloonix/bloonix.org
 
 I'm really sorry that the documentation is currently only available in the german language.
 
-My english is too bad and I it would be very great if you like to help to translate it. :-)
+My english is too bad and it would be very great if you like to help to translate it. :-)
 
 ## Repositories
 
