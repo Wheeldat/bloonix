@@ -43,6 +43,7 @@ My english is too bad and it would be very great if you like to help to translat
 * https://github.com/bloonix/bloonix-plugins-wtrm
 * https://github.com/bloonix/bloonix-release
 * https://github.com/bloonix/bloonix-server
+* https://github.com/bloonix/bloonix-satellite
 * https://github.com/bloonix/bloonix-webgui
 * https://github.com/bloonix/bloonix-webgui-core
 * https://github.com/bloonix/bloonix-wtrm
@@ -63,6 +64,7 @@ You can find a list of all available Bloonix plugins here
     git clone git@github.com:bloonix/bloonix-fcgi.git
     git clone git@github.com:bloonix/bloonix-heaven.git
     git clone git@github.com:bloonix/bloonix-server.git
+    git clone git@github.com:bloonix/bloonix-satellite.git
     git clone git@github.com:bloonix/bloonix-webgui.git
     git clone git@github.com:bloonix/bloonix-wtrm.git
 
