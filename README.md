@@ -5,11 +5,21 @@
 Bloonix is a high scalable IT infrastructure monitoring solution that helps businesses to ensure high availability and performance.
 It monitors and alerts on the availability and performance of systems, applications, networks and databases.
 
+## Feature list
+
+https://forum.bloonix.org/index.php/Thread/118-Feature-List-of-Bloonix/
+
+## Online Demo
+
+For all curious we've created a online demo:
+
+http://demo.bloonix.org/
+
 ## Documentation
 
 You can find the documentation here:
 
-http://bloonix.org/
+https://bloonix.org/
 
 The source files of the documentation are maintained in a github repository:
 
