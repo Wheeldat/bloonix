@@ -7,7 +7,7 @@ It monitors and alerts on the availability and performance of systems, applicati
 
 ## Feature list
 
-https://forum.bloonix.org/index.php/Thread/118-Feature-List-of-Bloonix/
+https://bloonix.org/en/docs/about/features.html
 
 ## Online Demo
 
