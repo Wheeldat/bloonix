@@ -7,19 +7,19 @@ It monitors and alerts on the availability and performance of systems, applicati
 
 ## Feature list
 
-https://bloonix.org/en/docs/about/features.html
+https://bloonix-monitoring.org/en/docs/about/features.html
 
 ## Online Demo
 
 For all curious we've created a online demo:
 
-http://demo.bloonix.org/
+http://demo.bloonix-monitoring.org/
 
 ## Documentation
 
 You can find the documentation here:
 
-https://bloonix.org/
+https://bloonix-monitoring.org/
 
 The source files of the documentation are maintained in a github repository:
 
